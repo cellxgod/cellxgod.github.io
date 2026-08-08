@@ -9,10 +9,10 @@ export default function EntryOverlay({ onEnter }: { onEnter: () => void }) {
       aria-label="Enter site"
     >
       <span className="text-shimmer font-sans text-2xl font-bold tracking-widest sm:text-4xl">
-        [ click to enter ]
+        WELCOME TO CYAN'S LOL
       </span>
       <span className="font-mono text-xs tracking-widest text-muted-foreground uppercase">
-        shadow.lol
+        TAP TO ENTER
       </span>
     </button>
   )
